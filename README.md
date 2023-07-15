@@ -10,7 +10,7 @@
 
 - I'm a frontend developer With 4+ years of experience.
 
-- I’m currently working on javascript and react
+- I’m currently working on javascript & react & vue
 
 - I’m available for freelancing.
   If you need a passionate team member please get in touch. 
