@@ -8,7 +8,7 @@
 
 <br>
 
-- I'm a frontend developer With 4+ years of experience.
+- I'm a frontend developer With 5+ years of experience.
 
 - I’m currently working on javascript & react & vue
 
